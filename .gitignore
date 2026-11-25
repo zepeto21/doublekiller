@@ -1,0 +1,9 @@
+# 빌드 결과물
+build/
+dist/
+*.spec
+*.exe
+__pycache__/
+# 개인 설정·기록
+정리기_설정.json
+정리기록/
