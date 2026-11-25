@@ -1,0 +1,14 @@
+{
+ "folders": [],
+ "recursive": true,
+ "min_kb": "1",
+ "exclude": "Thumbs.db; desktop.ini; .DS_Store; ~$*; *.tmp; *.part; *.crdownload",
+ "mode": "trash",
+ "rule": "가장 오래된 파일",
+ "ref_only": false,
+ "theme": "pixel",
+ "pv_width": 320,
+ "hide_guide": true,
+ "freed_total": 0,
+ "prefer": ""
+}
